@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-image: url('https://www.bizprospex.com/wp-content/uploads/2016/09/bizprospex-gif.gif');
+  background-size: cover;
+  height: 100%;
 }
 
 .App-logo {
